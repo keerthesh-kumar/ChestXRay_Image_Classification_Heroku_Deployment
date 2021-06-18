@@ -1,0 +1,9 @@
+python==3.8
+keras_nightly==2.5.0.dev2021032900
+Werkzeug==1.0.1
+tensorflow_cpu==2.5.0
+Flask==1.1.2
+gevent==20.9.0
+numpy==1.19.2
+keras==2.4.3
+tensorflow==2.5.0
